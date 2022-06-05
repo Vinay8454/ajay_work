@@ -1,0 +1,27 @@
+body {
+	background-color:#EAF6F6;
+	}
+
+h1 	{
+	color: #990000;
+	font-size: 50px;
+	}
+h3 {
+	color: #FF5B00;
+	}
+/*CLASS SELECTORS*/
+.circular
+	{
+	border-radius: 100%;
+	}
+/* ID SELECTORS */
+#heading  {
+	color: red;
+	}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 5%;
+	}
